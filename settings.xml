@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:soapui-project id="0561ef96-be7e-499e-9376-5f50321395a7" created="2.2.0" activeEnvironment="Default environment" name="TestCaseCount" resourceRoot="" updated="2.1.0 20170726-1100" runType="SEQUENTIAL" compositeProjectFormat="1.3" xmlns:con="http://eviware.com/soapui/config">
+	<con:settings>
+		<con:setting id="IncludeOverview">true</con:setting>
+		<con:setting id="IncludeResults">true</con:setting>
+		<con:setting id="FlowLayout">false</con:setting>
+		<con:setting id="ErrorDetails">true</con:setting>
+		<con:setting id="IncludeCoverage">true</con:setting>
+		<con:setting id="GeneratableJUnitReport@Style">Multiple Pages</con:setting>
+		<con:setting id="GeneratableJUnitReport@Folder">F:\Temp\Skava\TCCount\rep</con:setting>
+		<con:setting id="com.eviware.soapui.impl.wsdl.actions.iface.tools.soapui.ProTestRunnerAction@values-local">
+			<![CDATA[<xml-fragment xmlns:con="http://eviware.com/soapui/config">
+  <con:entry key="Report Format(s)" value=""/>
+  <con:entry key="Host:Port" value=""/>
+  <con:entry key="Export JUnit Results" value="true"/>
+  <con:entry key="Export All" value="false"/>
+  <con:entry key="Save After" value="false"/>
+  <con:entry key="Add Settings" value="false"/>
+  <con:entry key="WSS Password Type" value=""/>
+  <con:entry key="TestSuite" value="&lt;all>"/>
+  <con:entry key="Endpoint" value=""/>
+  <con:entry key="Select Report Type" value="JUnit-Style HTML Report"/>
+  <con:entry key="System Properties" value=""/>
+  <con:entry key="Run in-process" value="false"/>
+  <con:entry key="Password" value=""/>
+  <con:entry key="Print Report" value="false"/>
+  <con:entry key="Open Report" value="true"/>
+  <con:entry key="Test Case Tags" value=""/>
+  <con:entry key="Export JUnit Results with test properties" value="true"/>
+  <con:entry key="Global Properties" value=""/>
+  <con:entry key="Project Properties" value=""/>
+  <con:entry key="Project Password" value=""/>
+  <con:entry key="TestCase" value="&lt;all>"/>
+  <con:entry key="Username" value=""/>
+  <con:entry key="user-settings.xml Password" value=""/>
+  <con:entry key="TestRunner Path" value="C:\Program Files\SmartBear\ReadyAPI-2.1.0\bin"/>
+  <con:entry key="Environment" value="Default environment"/>
+  <con:entry key="Coverage Report" value="false"/>
+  <con:entry key="Enable UI" value="false"/>
+  <con:entry key="Root Folder" value="F:\Temp\Skava\TCCount\rep2"/>
+  <con:entry key="Ignore Errors" value="false"/>
+  <con:entry key="Domain" value=""/>
+  <con:entry key="Tool Args" value=""/>
+  <con:entry key="Save Project" value="true"/>
+</xml-fragment>]]>
+		</con:setting>
+	</con:settings>
+	<con:savedRecentRuns>1</con:savedRecentRuns>
+	<con:requirements/>
+	<con:properties/>
+	<con:wssContainer/>
+	<con:databaseConnectionContainer/>
+	<con:jmsConnectionContainer/>
+	<con:oAuth2ProfileContainer/>
+	<con:oAuth1ProfileContainer/>
+	<con:reporting/>
+	<con:authRepository/>
+	<con:tags>
+		<con:tag>
+			<con:id>c4edd41f-8186-45c4-bdf8-a984af380b7f</con:id>
+			<con:name>tag1</con:name>
+		</con:tag>
+	</con:tags>
+</con:soapui-project>
