@@ -57,8 +57,8 @@
 	<con:authRepository/>
 	<con:tags>
 		<con:tag>
-			<con:id>c4edd41f-8186-45c4-bdf8-a984af380b7f</con:id>
-			<con:name>tag1</con:name>
+			<con:id>40e8ae38-afc8-4274-a452-01c3b03bd1c9</con:id>
+			<con:name>tag2</con:name>
 		</con:tag>
 	</con:tags>
 </con:soapui-project>
